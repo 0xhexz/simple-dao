@@ -42,3 +42,4 @@ contract SimpleDAO {
         prop.executed = true;
     }
 }
+// Talent.app verification update
